@@ -71,4 +71,6 @@
     ansible.builtin.debug:
       msg: "After convert: {{ my_list | items2dict }}"
 
+      
+
     
